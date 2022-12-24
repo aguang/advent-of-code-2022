@@ -1,4 +1,3 @@
-using BenchmarkTools
 cd(@__DIR__)
 
 # Part 1 solution
