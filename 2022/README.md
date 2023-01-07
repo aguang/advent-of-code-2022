@@ -18,6 +18,7 @@ I learned quite a bit about Julia doing these exercises.
  * If I have a type `Substring{String}` but it's really just a character I should do `first(c)` as there is no method to convert `Substring{String}` to `Char`, presumably because `Substring{String}` could be multiple characters. So it's kind of more like an array.
  * Initializing an array with `undef` requires another initialization step later
  * How to write tests!
+ * About the [`Iterators.product`](https://docs.julialang.org/en/v1/base/iterators/#Base.Iterators.product) function for making a product of iterators (including the same one) as well as the [Combinationas.jl](https://github.com/JuliaMath/Combinatorics.jl) for making combinations of iterators.
 
  Also learned quite a bit about VSCode shortcuts:
 

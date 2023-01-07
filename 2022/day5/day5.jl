@@ -1,7 +1,7 @@
 cd(@__DIR__)
 using Test
 
-function cratebuild!(numcrates::Int, ln::String, stacks::Vector{Vector{String}})
+function chardiff(line::String)
     for i in 1:numcrates
         crate = ln[i*4-3:i*4-1]
         if isnothing(findfirst(isspace,crate))
