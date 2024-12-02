@@ -2,4 +2,5 @@
 
 My advent of code solutions!
 
-2022 is done in Julia.
+2022: Julia
+2024: Rust
