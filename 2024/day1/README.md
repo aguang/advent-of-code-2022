@@ -9,6 +9,6 @@ Done on 12/4/24.
  * How to install crates
  * The [CSV tutorial](https://docs.rs/csv/latest/csv/tutorial/index.html#delimiters-quotes-and-variable-length-records), although ultimately I didn't use it for the simple input file
  * Rust is 0-indexed
- * Honestly I learned to use ChatGPT to do a lot of the heavy lifting for how to write this code
+ * Honestly I learned to use ChatGPT to do a lot of the heavy lifting for how to write this code after getting incredibly frustrated with the persnickety typing and syntax just to successfully read and split the file into two columns, and ChatGPT was very helpful!
  * Learned about fun `map`, `iter` and `collect`
  * Learned how to benchmark with `std::time::Instant`
