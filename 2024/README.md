@@ -9,5 +9,6 @@ Learning Rust brand-new, have never written a single line in it before.
 | Day | Time |
 | --- | --- |
 | 1 | 2.186667ms |
+| 2 | 5.097167ms |
 
 ## Things Learned
