@@ -6,9 +6,10 @@ Learning Rust brand-new, have never written a single line in it before.
 
 ## Benchmarking
 
-| Day | Time |
-| --- | --- |
-| 1 | 2.186667ms |
-| 2 | 5.097167ms |
+| Day | Part | Time |
+| --- | --- | --- |
+| 1 | both | 2.186667ms |
+| 2 | 2 | 5.097167ms |
+| 3 | 1| 18.60825ms |
 
 ## Things Learned
