@@ -11,5 +11,6 @@ Learning Rust brand-new, have never written a single line in it before.
 | 1 | both | 2.186667ms |
 | 2 | 2 | 5.097167ms |
 | 3 | 1| 18.60825ms |
+| 3 | 2 | 21.59725ms |
 
 ## Things Learned
